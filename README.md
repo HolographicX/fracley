@@ -32,7 +32,17 @@ This project aims to build a beginner friendly (yet high performance) visual/ast
 # Build Guide
 > [!CAUTION]
 > **This project is currently under development**. Feel free to build a Fracley, however, expect changes to 3D printed parts and the BOM.
-
+> This is a WIP build guide.
+- Acquire [BOM](https://github.com/HolographicX/fracley/blob/main/BOM.csv) and [Printed Parts](https://github.com/HolographicX/fracley/blob/main/Printed%20Parts.csv)
+- Insert Heat set inserts in dedicated spots (guide TBD)
+- Place the lens elements between Lens Cell Inner and Lens Cell Outer
+- Screw the lens cells in with 6 M3 screws. You can use these 6 screws to collimate the telescope later on.
+- Attach the front end of the 3 rods to the lens cells, with 3 M3 screws and Inserts around Lens Cell Outer
+- Attach Front Cover with 3 M3 screws and inserts right behind the lens cel
+- Attach Back Cover around the end with 3 M3 screws and inserts
+- Assemble the Focuser according to this [timestamp in the video](https://youtu.be/2xd5qFVNYv8?feature=shared&t=825)
+- Attach Focuser Joint to the other end of the rod, with 3 M3 screws and Inserts
+- Attach the focuser assembly to Focuser Joint
 
 
 # Contributing
