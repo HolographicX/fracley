@@ -50,7 +50,7 @@ Feel free to contribute to the repository at any point! Open a pull request for 
 
 # Special Thanks
 Huge thanks to the community that made this project possible:
-- [Hadley](www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig) for the design and Maff for the initially fracley design inspiration 
+- [Hadley](www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig) for the design and Maff for the initial fracley design inspiration 
 - [DBS114](https://www.printables.com/model/1179616-dbs-114-astrograph-3d-printable-astrophotography-t) for the Focuser which is based on [ballanux's focuser](https://www.printables.com/model/265768-non-rotating-helical-focuser-with-collet-for-hadle)
 - Readme template from [short stack](https://github.com/loopj/short-stack/tree/main)
 # Images 
