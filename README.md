@@ -3,15 +3,17 @@ A 3D Printable Refractor Telescope based on the [Hadley Telescope](https://www.p
 
 **This project is currently under development**. Feel free to build a Fracley, however, expect changes to 3D printed parts and the BOM.
 
-<image render here >
+<img width="1920" height="1080" alt="render-2" src="https://github.com/user-attachments/assets/52357d5d-796e-431a-8a9b-0c688c6feee8" />
 
 
-The goal of this project is to build a beginner friendly (yet high performance) visual/astrophotography hybrid telescope at a low budget.
+## Goal
+This project aims to build a beginner friendly (yet high performance) visual/astrophotography hybrid telescope at a low budget.
 
 
 # Features
 - Refracting Telescope Design
-- 80mm aperture, 600mm Focal length
+- 83mm aperture, 600mm Focal length
+- f7.2 focal ratio
 - Lightweight and Portable
 - Doublet Lens
 - Built for visual observing and astrophotography. 
