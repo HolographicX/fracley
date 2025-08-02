@@ -1,8 +1,6 @@
 # Fracley
 A 3D Printable Refractor Telescope based on the [Hadley Telescope](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig).
 
-**This project is currently under development**. Feel free to build a Fracley, however, expect changes to 3D printed parts and the BOM.
-
 <img width="1920" height="1080" alt="render-2" src="https://github.com/user-attachments/assets/52357d5d-796e-431a-8a9b-0c688c6feee8" />
 
 
@@ -21,6 +19,9 @@ This project aims to build a beginner friendly (yet high performance) visual/ast
 - No supports
 
 # Build Guide
+> [!CAUTION]
+> **This project is currently under development**. Feel free to build a Fracley, however, expect changes to 3D printed parts and the BOM.
+
 
 
 # Contributing
