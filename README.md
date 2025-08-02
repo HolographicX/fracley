@@ -21,8 +21,8 @@ This project aims to build a beginner friendly (yet high performance) visual/ast
 
 # Features
 - Refracting Telescope Design
-- 83mm aperture, 600mm Focal length
-- f7.2 focal ratio
+- 83mm aperture
+- 600mm focal length, f7.2 focal ratio (Customizable! Buy a lower focal length lens and move the lens cell backward.)
 - Lightweight and Portable
 - Doublet Lens
 - Built for visual observing and astrophotography. 
